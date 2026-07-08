@@ -4,3 +4,4 @@ ImageFilterStudio
 customers.txt
 sessions.txt
 *.png
+!assets/*.png
