@@ -1,5 +1,6 @@
-ImageFilterStudio 
+ImageFilterStudio
 *.o
 *.out
 customers.txt
 sessions.txt
+*.png
