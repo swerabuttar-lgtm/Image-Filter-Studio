@@ -1,0 +1,5 @@
+ImageFilterStudio
+*.o
+*.out
+customers.txt
+sessions.txt
